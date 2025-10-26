@@ -4,4 +4,4 @@
 
 Below is the ER diagram for the database design:
 
-![Airbnb ER Diagram]("Airbnb ERD.png")
+![ER Diagram](AirbnbERD.png)
